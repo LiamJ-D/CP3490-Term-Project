@@ -1,1 +1,7 @@
 ﻿Sprint Goal,User Story,Task,Assigned To,Status,Notes
+Sprint 1: Main Code,"Users (students, faculty, and administrators) can register and log in.","Create and implement User class, with login credentials ",Liam,To Do,
+Sprint 1: Main Code,"Admins can create, edit, or delete user accounts.","Create and implement Admin class as well as methods for edit, delete, and create users.",Marcus,To Do,
+Sprint 1: Main Code,"Role-based access: admin, event organizer, participant.",Implement method for Admin to assign roles to users.,Marcus,To Do,
+Sprint 1: Main Code,"Organizers can create new events with details such as title, date, time, location, and description.",Create and implement Organizer and Event classes.,Liam,To Do,
+Sprint 1: Code/Review,"Make sure all code is working, and can work together.",Make sure the current code is working as expected.,Liam/Marcus,To Do,
+Sprint 1: Design,Make a clean and intuitive user interface for the system.,Design and begin creating graphical user interface for Campus Management System.,Liam/Marcus,To Do,
