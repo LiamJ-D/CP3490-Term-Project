@@ -1,0 +1,43 @@
+<events>
+    <event id="e001">
+        <title>Campus Welcome Day</title>
+        <description>Introduction for new students and faculty.</description>
+        <start>2025-12-10T09:00</start>
+        <end>2025-12-10T12:00</end>
+        <roomId>A101</roomId>
+        <organizerId>admin</organizerId>
+        <capacity>50</capacity>
+        <participants>
+            <user>student01</user>
+            <user>student02</user>
+        </participants>
+    </event>
+
+    <event id="e002">
+        <title>Science Seminar</title>
+        <description>Guest lecture on AI and robotics.</description>
+        <start>2025-12-12T14:00</start>
+        <end>2025-12-12T16:00</end>
+        <roomId>C303</roomId>
+        <organizerId>admin</organizerId>
+        <capacity>100</capacity>
+        <participants>
+            <user>student03</user>
+            <user>student04</user>
+            <user>faculty01</user>
+        </participants>
+    </event>
+
+    <event id="e003">
+        <title>Art Workshop</title>
+        <description>Hands-on painting and sketching workshop.</description>
+        <start>2025-12-15T10:00</start>
+        <end>2025-12-15T13:00</end>
+        <roomId>B202</roomId>
+        <organizerId>admin</organizerId>
+        <capacity>30</capacity>
+        <participants>
+            <user>student05</user>
+        </participants>
+    </event>
+</events>

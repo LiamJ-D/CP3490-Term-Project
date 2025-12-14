@@ -1,0 +1,22 @@
+<feedbackList>
+    <feedback id="f001">
+        <eventId>e001</eventId>
+        <userId>student01</userId>
+        <rating>5</rating>
+        <comment>Great introduction event, very welcoming!</comment>
+    </feedback>
+
+    <feedback id="f002">
+        <eventId>e002</eventId>
+        <userId>faculty01</userId>
+        <rating>4</rating>
+        <comment>Informative seminar, but could have been longer.</comment>
+    </feedback>
+
+    <feedback id="f003">
+        <eventId>e003</eventId>
+        <userId>student05</userId>
+        <rating>5</rating>
+        <comment>Fun and interactive art session!</comment>
+    </feedback>
+</feedbackList>

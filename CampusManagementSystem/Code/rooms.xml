@@ -1,0 +1,27 @@
+<rooms>
+    <room id="A101" capacity="50">
+    <location>Building A, 1st Floor</location>
+    <projector>true</projector>
+    <whiteboard>true</whiteboard>
+    </room>
+    <room id="B202" capacity="30">
+    <location>Building B, 2nd Floor</location>
+    <projector>false</projector>
+    <whiteboard>true</whiteboard>
+    </room>
+    <room id="C303" capacity="100">
+    <location>Main Auditorium</location>
+    <projector>true</projector>
+    <whiteboard>false</whiteboard>
+    </room>
+    <room id="D404" capacity="20">
+    <location>Building A, 3rd Floor</location>
+    <projector>true</projector>
+    <whiteboard>false</whiteboard>
+    </room>
+    <room id="E505" capacity="75">
+    <location>Building B, 1st Floor</location>
+    <projector>true</projector>
+    <whiteboard>true</whiteboard>
+    </room>
+</rooms>
